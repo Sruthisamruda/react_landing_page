@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sruthisamruda/react_landing_page.git/static/css/main.06e5ec17.css",
+    "main.js": "/Sruthisamruda/react_landing_page.git/static/js/main.5736286e.js",
+    "static/js/453.c000622e.chunk.js": "/Sruthisamruda/react_landing_page.git/static/js/453.c000622e.chunk.js",
+    "static/media/pizza.png": "/Sruthisamruda/react_landing_page.git/static/media/pizza.f000b0c5ce5993fa54c3.png",
+    "static/media/sushi.png": "/Sruthisamruda/react_landing_page.git/static/media/sushi.724045b10346ba8e6024.png",
+    "static/media/burger.png": "/Sruthisamruda/react_landing_page.git/static/media/burger.c38421837074a7582654.png",
+    "static/media/delivery.png": "/Sruthisamruda/react_landing_page.git/static/media/delivery.65935f232302bdfbdac4.png",
+    "static/media/logo.svg": "/Sruthisamruda/react_landing_page.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sruthisamruda/react_landing_page.git/index.html",
+    "main.06e5ec17.css.map": "/Sruthisamruda/react_landing_page.git/static/css/main.06e5ec17.css.map",
+    "main.5736286e.js.map": "/Sruthisamruda/react_landing_page.git/static/js/main.5736286e.js.map",
+    "453.c000622e.chunk.js.map": "/Sruthisamruda/react_landing_page.git/static/js/453.c000622e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e5ec17.css",
+    "static/js/main.5736286e.js"
+  ]
+}
